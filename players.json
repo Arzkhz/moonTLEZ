@@ -2065,5 +2065,17 @@
       "mace": "LT5",
       "diapot": ""
     }
+  },
+  {
+    "mc_nick": "Samqal",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "HT5",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "",
+      "diapot": ""
+    }
   }
 ]
