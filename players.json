@@ -2053,5 +2053,17 @@
       "mace": "",
       "diapot": "HT5"
     }
+  },
+  {
+    "mc_nick": "robotico01110",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT5",
+      "diapot": ""
+    }
   }
 ]
