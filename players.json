@@ -2078,5 +2078,17 @@
       "mace": "",
       "diapot": ""
     }
+  },
+  {
+    "mc_nick": "Dark01Storm",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "",
+      "diapot": "HT5"
+    }
   }
 ]
