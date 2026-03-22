@@ -2737,5 +2737,17 @@
       "mace": "",
       "diapot": ""
     }
+  },
+  {
+    "mc_nick": "ht1spearmacer",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT3",
+      "diapot": ""
+    }
   }
 ]
