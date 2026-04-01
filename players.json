@@ -2835,5 +2835,17 @@
       "mace": "LT5",
       "diapot": ""
     }
+  },
+  {
+    "mc_nick": "x_ey4",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "",
+      "diapot": "LT5"
+    }
   }
 ]
