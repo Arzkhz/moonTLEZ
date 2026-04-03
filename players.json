@@ -2847,5 +2847,17 @@
       "mace": "",
       "diapot": "LT5"
     }
+  },
+  {
+    "mc_nick": "KoDeg_",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT3",
+      "diapot": ""
+    }
   }
 ]
