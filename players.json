@@ -551,13 +551,14 @@
   },
   {
     "mc_nick": "aguantemessi500",
-    "region": "NA",
+    "region": "SA",
     "tiers": {
-      "nethpot": "LT5",
+      "nethpot": "LT4",
       "sword": "",
       "crystal": "",
       "uhc": "",
-      "mace": ""
+      "mace": "",
+      "diapot": ""
     }
   },
   {
