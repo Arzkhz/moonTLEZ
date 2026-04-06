@@ -2860,5 +2860,17 @@
       "mace": "LT3",
       "diapot": ""
     }
+  },
+  {
+    "mc_nick": "Inosht",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "LT3",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "",
+      "diapot": ""
+    }
   }
 ]
