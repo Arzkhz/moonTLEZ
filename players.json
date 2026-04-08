@@ -2896,5 +2896,17 @@
       "mace": "",
       "diapot": ""
     }
+  },
+  {
+    "mc_nick": "Empanadas",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "HT5",
+      "diapot": ""
+    }
   }
 ]
